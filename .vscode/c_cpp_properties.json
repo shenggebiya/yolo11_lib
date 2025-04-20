@@ -1,0 +1,19 @@
+{
+    "version": 4,
+    "configurations": [
+      {
+        "name": "Linux-GCC",
+        "compilerPath": "/usr/bin/g++",
+        "cStandard":   "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "linux-gcc-x64",
+        "includePath": [
+          "${workspaceFolder}/include",                     // 我们放 YOLODetector.h 的地方
+          "/usr/include/opencv4",                           // 如果你的 OpenCV 安装在默认位置
+          "/usr/local/include/onnxruntime"                // ONNX Runtime 的 include 路径
+        ],
+        "defines": []
+      }
+    ]
+  }
+  

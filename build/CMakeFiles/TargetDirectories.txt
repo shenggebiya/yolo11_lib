@@ -1,4 +1,0 @@
-/home/shi/yolo_lib/build/CMakeFiles/yolodetector.dir
-/home/shi/yolo_lib/build/CMakeFiles/demo.dir
-/home/shi/yolo_lib/build/CMakeFiles/edit_cache.dir
-/home/shi/yolo_lib/build/CMakeFiles/rebuild_cache.dir
